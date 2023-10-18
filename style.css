@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-bg {
+    background-color: #0C0521;
+}
+
+.nav-logo {
+    width: 136px;
+    height: 36px;
+}
+
+#text1 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+#text2 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+#text3 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+#text4 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+#text5 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.banner-section-container {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 32px;
+    color: #ffffff;
+}
+
+.banner-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.button-signup {
+    background-color: #FFDDA9;
+    color: #0C0521;
+    height: 47px;
+    width: 165px;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.logos-section-bg-container {
+    background-color: #f9fbfe;
+    background-size: cover;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #323f4b;
+    text-align: center;
+}
+
+.bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.image {
+    height: 130;
+    width: 130px;
+}
+
+.design-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.design-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.tools-section-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.tools-section-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.features-section-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.features-section-caption {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+    text-align: center;
+}
+
+.features-image {
+    height: 65px;
+    width: 75px;
+}
+
+.feature-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.feature-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 11px;
+    font-weight: 500;
+}
